@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitacharya&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitacharya" /> </p>
 
-- 🔭 I’m currently working on **OpenCV and Live Image Detections**
+- 🔭 I’m currently working on **Data Analysis and ML**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
